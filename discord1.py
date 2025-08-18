@@ -1,7 +1,7 @@
 import os
 from dhooks import Webhook, Embed, File
 
-image2_path = 'cs-sp1-nova-obavestenja.png'
+image2_path = 'cs elfak.jpg'
 
 WEBHOOK_URL = [os.getenv('WEBHOOK_MAIN1')]
 for url in WEBHOOK_URL:
@@ -12,6 +12,6 @@ for url in WEBHOOK_URL:
         color=0x3498DB
     )
 
-    embed.set_image(url="attachment://cs-sp1-nova-obavestenja.png")
-    file = File(image2_path, name="cs-sp1-nova-obavestenja.png")
+    embed.set_image(url="attachment://cs elfak.jpg")
+    file = File(image2_path, name="cs elfak.jpg")
     hook.send("@everyone 📢 SP", embed=embed, file=file)
