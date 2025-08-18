@@ -57,15 +57,7 @@ jobs:
           commit_message: Update novosti1.md
         id: auto-commit-action1
 
-      # Step 8: Take screenshot if changes detected
-      - name: Take photo
-        if: steps.auto-commit-action1.outputs.changes_detected == 'true'
-        env:
-          MAIL: ${{ secrets.MAIL }}
-          PASSWORD: ${{ secrets.PASSWORD }}
-        run: python photo1.py
-
-      # Step 9: Notify via Discord bot
+      # Step 8: Notify via Discord bot
       - name: Discord bot notification
         if: steps.auto-commit-action1.outputs.changes_detected == 'true'
         env:
