@@ -45,6 +45,7 @@ try:
 
     # Step 6: Navigate to the main page
     page_to_scrape.get("https://cs.elfak.ni.ac.rs/nastava/course/view.php?id=9")
+    time.sleep(3)
 
     # Step 7: Extract data and save it to a markdown file
     responseT1 = page_to_scrape.find_element(By.XPATH, '//*[@id="region-main"]')
