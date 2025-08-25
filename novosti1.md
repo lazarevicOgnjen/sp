@@ -235,10 +235,10 @@ Lab.2 - Hash tablice
 File
 11 August - 17 August
   Računske vežbe
-This week
 18 August - 24 August
   Računske vežbe
   Laboratorijske vežbe
+This week
 25 August - 31 August
 Računske vežbe
 Grafovi - w (2020)
