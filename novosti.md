@@ -1,6 +1,14 @@
 Advanced search...
 Forums
-Search results: 2
+Search results: 3
+Forum novosti -> Резултати испита - Децембар -> Распоред за усмени део испита - Децембар 2024
+by Leonid Stoimenov - Thursday, 28 August 2025, 11:19 AM
+Raspored za usmeni deo ispita (Decembar):
+10:00
+Miloš Antić
+Permalink
+Show parent
+See this post in context
 Forum novosti -> Резултати испита - Децембар -> Упис оцена и усмени део испита - Децембар 2024
 by Leonid Stoimenov - Monday, 25 August 2025, 1:04 PM
 Studenti po starom koji su položili završni ispit u decembarskom ispitnom roku, mogu da upišu ocenu u četvrtak, 28.8.25 ili petak, 29.8. u 11h u prostoriji M2-1.
