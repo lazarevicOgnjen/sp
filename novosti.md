@@ -1,6 +1,14 @@
 Advanced search...
 Forums
-Search results: 3
+Search results: 4
+Forum novosti -> Делимични резултати испита - ЈАНУАР 2025
+by Leonid Stoimenov - Wednesday, 3 September 2025, 6:13 PM
+У прилогу су делимични резултати испита за Т део. 
+Студенти који имају више од 50 поена положили су овај део испита (означени зеленом бојом). 
+Положени Т део важи и у наредним роковима до краја ове школске године.
+SP JAN 25 - T deo.pdf
+Permalink
+See this post in context
 Forum novosti -> Резултати испита - Децембар -> Распоред за усмени део испита - Децембар 2024
 by Leonid Stoimenov - Thursday, 28 August 2025, 11:19 AM
 Raspored za usmeni deo ispita (Decembar):
